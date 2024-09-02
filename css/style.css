@@ -9,3 +9,32 @@ header{
     margin-left: 150px;
     margin-top: 60px;
 }
+
+main{
+    width: 80%;
+    margin: auto;
+}
+
+#title{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.near-title{
+    font-size: 45px;
+    font-weight: 500;
+}
+
+#written-by{
+    color: gray;
+}
+
+#author{
+    color: rgb(100, 192, 250);
+}
+
+#date{
+    font-size: 25px;
+    color: gray;
+    font-weight: 500;
+}
