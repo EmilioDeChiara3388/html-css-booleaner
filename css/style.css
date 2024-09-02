@@ -39,3 +39,15 @@ main{
     color: gray;
     font-weight: 500;
 }
+
+.article-and-list{
+    font-size: 20px;
+}
+
+mark{
+    background-color: yellow;
+}
+
+#list{
+    margin-left: -20px;
+}
